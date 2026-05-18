@@ -8,3 +8,5 @@
     <li>6.php artisan reverb:start</li>
     <li>7.npm run dev</li>
 </ul>
+
+<p><a href="https://gemini.google.com/share/40e7792977a5">Link for more</a></p>
